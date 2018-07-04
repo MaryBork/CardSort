@@ -1,6 +1,6 @@
 require 'minitest/autorun'
 require 'minitest/pride'
-require './lib/CrdSrt'
+require './lib/Class_Card'
 
 class CardTest < Minitest::Test
   def test_it_exists
